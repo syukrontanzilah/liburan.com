@@ -25,8 +25,11 @@ const NavbarMobile = ({showNav, closeNav}: Props) => {
             </Link>
           );
         })}
+         <button className="md:px-12 md:py-2.5 px-8 py-2 text-black text-base bg-white hover:bg-gray-200 translate-x-0 duration-200 rounded-lg w-[50%] ml-12 !mt-10">
+            Book Now
+          </button>
         {/* close button */}
-        <div>
+        <div className="">
           <CgClose onClick={closeNav} className="absolute top-[0.7rem] right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6" />
         </div>
       </div>

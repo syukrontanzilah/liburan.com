@@ -39,7 +39,7 @@ const Destinationslider = () => {
       //   ssr={true}
       infinite={true}
       autoPlay={true}
-      autoPlaySpeed={3000}
+      autoPlaySpeed={2000}
       keyBoardControl={true}
       //   customTransition="all .5"
       //   transitionDuration={500}

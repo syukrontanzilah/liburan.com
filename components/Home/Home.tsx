@@ -4,6 +4,7 @@ import Destination from './Destination/Destination'
 import Hotel from './Hotel/Hotel'
 import Why from './Why/Why'
 import Reviews from './Reviews/Reviews'
+import News from './News/News'
 
 const HomeComponent = () => {
   return (
@@ -13,6 +14,7 @@ const HomeComponent = () => {
       <Hotel/>
       <Why/>
       <Reviews/>
+      <News/>
     </div>
   )
 }

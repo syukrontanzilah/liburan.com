@@ -139,7 +139,7 @@ export const toursData = [
 export const reviewData = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Muhammad Taufik",
     review:
       "The service exceeded my expectations. The team was professional, and I couldn't be happier with the results. Highly recommended to everyone!",
     image: "/images/u1.jpg",
@@ -147,7 +147,7 @@ export const reviewData = [
   },
   {
     id: 2,
-    name: "Jane Smith",
+    name: "Iwan Hasanudin",
     review:
       "I am thoroughly impressed with the attention to detail and quality. They truly understand customer needs and deliver outstanding results. Wonderful experience!",
     image: "/images/u2.jpg",
@@ -155,7 +155,7 @@ export const reviewData = [
   },
   {
     id: 3,
-    name: "Michael Brown",
+    name: "Muhammad Wildan",
     review:
       "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
     image: "/images/u3.jpg",
@@ -163,7 +163,7 @@ export const reviewData = [
   },
   {
     id: 4,
-    name: "Emily Davis",
+    name: "Rexy Sulaiman",
     review:
       "Outstanding results! The team was efficient, and their professionalism was remarkable. Everything was done perfectly. I highly recommend their expertise to everyone.",
     image: "/images/u1.jpg",
@@ -171,15 +171,15 @@ export const reviewData = [
   },
   {
     id: 5,
-    name: "Chris Wilson",
+    name: "Chris Pratt",
     review:
       "Amazing service! They exceeded all expectations and delivered a product that I am extremely happy with. The communication throughout the project was excellent.",
     image: "/images/u2.jpg",
-    job: "Photographer"
+    job: "Actor"
   },
   {
     id: 6,
-    name: "Sarah Johnson",
+    name: "Algifary",
     review:
       "Fantastic experience! They listened carefully to my requirements and delivered exactly what I needed. Their attention to detail is truly commendable.",
     image: "/images/u3.jpg",
@@ -187,18 +187,18 @@ export const reviewData = [
   },
   {
     id: 7,
-    name: "David Lee",
+    name: "David Beckham",
     review:
       "Absolutely incredible service! The team was supportive and responsive, making sure everything was perfect. I will definitely recommend them to my friends.",
     image: "/images/u1.jpg",
-    job: "Hotel Manager"
+    job: "Football Player"
   },
   {
     id: 8,
-    name: "Sophia White",
+    name: "Paul Walker",
     review:
       "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
     image: "/images/u2.jpg",
-    job: "Lawyer"
+    job: "Actor"
   },
 ];

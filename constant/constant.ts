@@ -16,16 +16,16 @@ export const navLinks = [
     url: "/destination",
     label: "Destination",
   },
-  {
-    id: 4,
-    url: "/blog",
-    label: "Blog",
-  },
-  {
-    id: 5,
-    url: "/dashboard",
-    label: "Dashboard",
-  },
+  // {
+  //   id: 4,
+  //   url: "/blog",
+  //   label: "Blog",
+  // },
+  // {
+  //   id: 5,
+  //   url: "/dashboard",
+  //   label: "Dashboard",
+  // },
   {
     id: 6,
     url: "/contact",

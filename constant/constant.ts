@@ -9,12 +9,12 @@ export const navLinks = [
   {
     id: 2,
     url: "/about",
-    label: "About",
+    label: "#",
   },
   {
     id: 3,
     url: "/destination",
-    label: "Destination",
+    label: "#",
   },
   // {
   //   id: 4,
@@ -29,6 +29,6 @@ export const navLinks = [
   {
     id: 6,
     url: "/contact",
-    label: "Contact",
+    label: "#",
   },
 ];

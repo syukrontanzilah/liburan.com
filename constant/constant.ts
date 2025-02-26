@@ -8,13 +8,13 @@ export const navLinks = [
   },
   {
     id: 2,
-    url: "/about",
-    label: "#",
+    url: "#",
+    label: "About",
   },
   {
     id: 3,
-    url: "/destination",
-    label: "#",
+    url: "#",
+    label: "Destination",
   },
   // {
   //   id: 4,
@@ -28,7 +28,7 @@ export const navLinks = [
   // },
   {
     id: 6,
-    url: "/contact",
-    label: "#",
+    url: "#",
+    label: "Contact",
   },
 ];

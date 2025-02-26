@@ -24,14 +24,14 @@ const News = () => {
         <div>
           <NewsCard
             image="/images/n3.jpg"
-            title="How to Plan a Trip to Bali"
+            title="How to Plan a GreatTrip to Bali"
             date="Feb 27, 2025"
           />
         </div>
         <div>
           <NewsCard
             image="/images/n4.jpg"
-            title="The Best Beach in the World"
+            title="The Best Beach in the World in February 2025"
             date="Feb 28, 2025"
           />
         </div>

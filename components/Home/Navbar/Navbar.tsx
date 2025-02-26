@@ -14,10 +14,10 @@ const Navbar = ({ openNav }: Props) => {
 
   useEffect(() => {
     const handler = () => {
-      if (window.scrollY >= 90) {
+      if (window.scrollY >= 100) {
         setNavBg(true);
       }
-      if (window.scrollY < 90) {
+      if (window.scrollY < 100) {
         setNavBg(false);
       }
     };
@@ -28,7 +28,7 @@ const Navbar = ({ openNav }: Props) => {
   }, []);
 
   return (
-    <div className={` ${navBg ? "bg-blue-950 shadow-md" : "fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full`}>
+    <div className={` ${navBg ? "bg-blue-950 shadow-md" : "fixed"} transition-all duration-200 ${ navBg? 'h-[10vh]': 'h-[12vh]'}  z-[1000] fixed w-full`}>
       <div className={`flex items-center h-full justify-between w-[90%] xl:w-[80%] mx-auto `}>
         {/* logo */}
         <Link href={"/"} className="flex items-center space-x-2">

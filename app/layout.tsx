@@ -12,7 +12,7 @@ const font = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "qiqi.com 😎 ",
+  title: "QIQI | Holiday 😎 ",
   description: "Liburan yuk jangan dirumah aja 🏝️",
 };
 

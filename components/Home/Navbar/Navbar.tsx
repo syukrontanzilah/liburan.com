@@ -36,7 +36,7 @@ const Navbar = ({ openNav }: Props) => {
             <TbAirBalloon className="w-6 h-6 text-white" />
           </div>
           <h1 className="text-xl md:text-2xl text-white uppercase font-bold">
-            qiqi.com
+            qiqi.id
           </h1>
         </Link>
         {/* Nav Link */}
